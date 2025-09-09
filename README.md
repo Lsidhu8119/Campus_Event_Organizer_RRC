@@ -20,13 +20,23 @@ Our focus is not only on creating a useful app, but also on gaining practical ex
 ---
 
 ## Team Members
-- **Lovedeep Sidhu** -  Event List Component  
+- **Lovedeep Sidhu** - Event List Component  
 - **Subhpreet Singh** - Event Categories Component  
 - **Amandeep Singh** - Featured Event Component  
 
-**Team Name:** CODING DOCTORS 
+---
+
+##Team Name: CODING DOCTORS 
 
 ---
+
+## User Stories
+- *As a student, I want to see a list of upcoming campus events, so I can decide which ones to attend.*  
+- *As a student, I want to filter events by category (sports, workshops, social), so I can quickly find what interests me.*  
+- *As an organizer, I want to feature a highlighted event, so students do not miss important activities.*  
+
+---
+
 
 ## Branching Strategy
 
